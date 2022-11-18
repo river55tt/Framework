@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Legs
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/IKLegPole.L
+    m_Weight: 0
+  - m_Path: Armature/IKLegPole.R
+    m_Weight: 0
+  - m_Path: Armature/IKTarget.L
+    m_Weight: 0
+  - m_Path: Armature/IKTarget.R
+    m_Weight: 0
+  - m_Path: Armature/Waist
+    m_Weight: 1
+  - m_Path: Armature/Waist/Midsection
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso/Head
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso/UpperArm.L
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso/UpperArm.L/LowerArm.L
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso/UpperArm.L/LowerArm.L/Hand.L
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso/UpperArm.R
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso/UpperArm.R/LowerArm.R
+    m_Weight: 0
+  - m_Path: Armature/Waist/Midsection/Torso/UpperArm.R/LowerArm.R/Hand.R
+    m_Weight: 0
+  - m_Path: Armature/Waist/UpperLeg.L
+    m_Weight: 1
+  - m_Path: Armature/Waist/UpperLeg.L/LowerLeg.L
+    m_Weight: 1
+  - m_Path: Armature/Waist/UpperLeg.L/LowerLeg.L/Foot.L
+    m_Weight: 1
+  - m_Path: Armature/Waist/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+    m_Weight: 1
+  - m_Path: Armature/Waist/UpperLeg.R
+    m_Weight: 1
+  - m_Path: Armature/Waist/UpperLeg.R/LowerLeg.R
+    m_Weight: 1
+  - m_Path: Armature/Waist/UpperLeg.R/LowerLeg.R/Foot.R
+    m_Weight: 1
+  - m_Path: Armature/Waist/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
